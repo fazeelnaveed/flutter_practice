@@ -1,2 +1,3 @@
 This file was created to practice Git and GitHub.
 I am learning how to track, commit, and push changes using Git.
+This is my second local change for the Git and GitHub practice task.
